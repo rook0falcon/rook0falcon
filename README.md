@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+⚡ Fun fact: Whoever is not interested in AI is not interested in interesting things.
+
+Important repositories: 
+1. [Steel Image segmentation](https://github.com/rook0falcon/steel-defect-detection)
+2. [Credit Card Fraud](https://github.com/rook0falcon/credit-card-fraud-detection)
+
+📫 How to reach me: [GMAIL](guildbilla@gmail.com), [LinkedIn](https://www.linkedin.com/in/karthik-kumar-billa/)
+
+
 <!--
 **rook0falcon/rook0falcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
