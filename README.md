@@ -8,6 +8,7 @@ Important repositories:
 
 📫 How to reach me: [GMail](mailto:guildbilla@gmail.com?subject=[GitHub]), [LinkedIn](https://www.linkedin.com/in/karthik-kumar-billa/)
 
+[<img src="https://media-exp1.licdn.com/dms/image/C4D2DAQGJe_ri_u56rg/profile-treasury-image-shrink_1280_1280/0?e=1594731600&v=beta&t=dptwZ22ncjoaXkOyu2Fnk_BTfoYwajyp1wHzkSeLUb8" height = 150>](https://media-exp1.licdn.com/dms/image/C4D2DAQGJe_ri_u56rg/profile-treasury-image-shrink_1280_1280/0?e=1594731600&v=beta&t=dptwZ22ncjoaXkOyu2Fnk_BTfoYwajyp1wHzkSeLUb8)
 
 <!--
 **rook0falcon/rook0falcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
