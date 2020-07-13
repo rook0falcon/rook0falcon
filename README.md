@@ -6,7 +6,7 @@ Important repositories:
 1. [Steel Image segmentation](https://github.com/rook0falcon/steel-defect-detection)
 2. [Credit Card Fraud](https://github.com/rook0falcon/credit-card-fraud-detection)
 
-📫 How to reach me: [GMAIL](guildbilla@gmail.com), [LinkedIn](https://www.linkedin.com/in/karthik-kumar-billa/)
+📫 How to reach me: [GMail](mailto:guildbilla@gmail.com?subject=[GitHub]), [LinkedIn](https://www.linkedin.com/in/karthik-kumar-billa/)
 
 
 <!--
